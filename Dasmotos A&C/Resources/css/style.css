@@ -1,0 +1,35 @@
+h1{
+color: khaki;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("/Users/johnhann/Library/Mobile Documents/com~apple~CloudDocs/CodecademyPRO/DevProjects/Dasmotos A&C/Resources/1_pattern.jpeg");
+  }
+  .brushes h2{
+    color: white;
+      font-family: Helvetica;
+      font-size: 32px;
+      font-weight: bold;
+      background-color: mediumspringgreen;
+  }
+  .frames h2{
+    color: white;
+      font-family: Helvetica;
+      font-size: 32px;
+      font-weight: bold;
+      background-color: lightcoral;
+  }
+  .paint h2{
+    color: white;
+      font-family: Helvetica;
+      font-size: 32px;
+      font-weight: bold;
+      background-color: skyblue;
+  }
+  h3, p{
+    font-family: Helvetica;
+  }
+  strong{
+    color: blue;
+  }
